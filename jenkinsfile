@@ -1,7 +1,7 @@
 // Ce fichier ne sert pas ici car écrit avec une lettre minuscule jenkisfile et non pas Jenkinsfile
 pipeline {
     agent {
-        label('slave1')
+        label('label1')
     }
 // ou bien 
 // agent any
