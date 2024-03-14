@@ -1,5 +1,5 @@
 // Ce fichier ne sert pas ici car écrit avec une lettre minuscule jenkisfile et non pas Jenkinsfile
-//2ème modif pour déclencher le build
+//3ème modif pour déclencher le build
 pipeline {
     agent {
         label('label1')
